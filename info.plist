@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-					<string>ci.nn.VCMI-iOS</string>
+					<string>NAASWP</string>
 					<key>bundle-version</key>
-                    <string>4.4</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>VCMI-iOS</string>
+                    <string>NAASWP</string>
                 </dict>
             </dict>
         </array>
